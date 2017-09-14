@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <Reference Include="HelloWorld">
-      <HintPath>..\..\src\bin\Debug\netcoreapp1.1\HelloWorld.dll</HintPath>
+      <HintPath>..\..\src\bin\Release\netcoreapp1.1\win7-x64\HelloWorld.dll</HintPath>
     </Reference>
   </ItemGroup>
 
