@@ -14,7 +14,7 @@ var deployDir = Directory("deploy");
 var artifactsDir = Directory("artifacts");
 
 // define runtime environments to build
-var environment =  "win81-x64";
+var environment =  "win7-x64";
 
 // get version
 var version = GitVersion();
