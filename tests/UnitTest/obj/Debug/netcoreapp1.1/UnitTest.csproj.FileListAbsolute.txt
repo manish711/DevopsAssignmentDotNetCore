@@ -1,0 +1,13 @@
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.deps.json
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.runtimeconfig.json
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.runtimeconfig.dev.json
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.csprojResolveAssemblyReference.cache
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.AssemblyInfo.cs
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.pdb
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\bin\Debug\netcoreapp1.1\HelloWorld.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.pdb

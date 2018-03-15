@@ -1,0 +1,12 @@
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\bin\Debug\netcoreapp1.1\IntegrationTest.deps.json
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\bin\Debug\netcoreapp1.1\IntegrationTest.runtimeconfig.json
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\bin\Debug\netcoreapp1.1\IntegrationTest.runtimeconfig.dev.json
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\bin\Debug\netcoreapp1.1\IntegrationTest.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\bin\Debug\netcoreapp1.1\IntegrationTest.pdb
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\obj\Debug\netcoreapp1.1\IntegrationTest.AssemblyInfo.cs
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\obj\Debug\netcoreapp1.1\IntegrationTest.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\obj\Debug\netcoreapp1.1\IntegrationTest.pdb
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\tests\IntegrationTest\obj\Debug\netcoreapp1.1\IntegrationTest.csprojResolveAssemblyReference.cache

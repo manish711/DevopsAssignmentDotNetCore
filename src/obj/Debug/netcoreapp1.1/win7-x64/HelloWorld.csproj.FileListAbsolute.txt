@@ -1,0 +1,11 @@
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\bin\Debug\netcoreapp1.1\win7-x64\hostpolicy.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\bin\Debug\netcoreapp1.1\win7-x64\hostfxr.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\bin\Debug\netcoreapp1.1\win7-x64\HelloWorld.exe
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\bin\Debug\netcoreapp1.1\win7-x64\HelloWorld.deps.json
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\bin\Debug\netcoreapp1.1\win7-x64\HelloWorld.runtimeconfig.json
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\bin\Debug\netcoreapp1.1\win7-x64\HelloWorld.runtimeconfig.dev.json
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\bin\Debug\netcoreapp1.1\win7-x64\HelloWorld.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\bin\Debug\netcoreapp1.1\win7-x64\HelloWorld.pdb
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\obj\Debug\netcoreapp1.1\win7-x64\HelloWorld.AssemblyInfo.cs
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\obj\Debug\netcoreapp1.1\win7-x64\HelloWorld.dll
+D:\Nagarro Imp\NAGP\4277\Workshop8_DevOps\DevopsAssignmentDotNetCore\src\obj\Debug\netcoreapp1.1\win7-x64\HelloWorld.pdb
